@@ -1,5 +1,0 @@
-C:\Users\Giovanni\Desktop\password manager\passwrod_manager.exe
-C:\Users\Giovanni\Desktop\password manager\passwrod_manager.dll
-C:\Users\Giovanni\Desktop\password manager\passwrod_manager.deps.json
-C:\Users\Giovanni\Desktop\password manager\passwrod_manager.runtimeconfig.json
-C:\Users\Giovanni\Desktop\password manager\passwrod_manager.pdb

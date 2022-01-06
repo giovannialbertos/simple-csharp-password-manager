@@ -1,5 +1,0 @@
-C:\Users\Giovanni\Desktop\Google Drive\programming\cs projects 1\passwrod_manager\PasswordMangerRelease\passwrod_manager.exe
-C:\Users\Giovanni\Desktop\Google Drive\programming\cs projects 1\passwrod_manager\PasswordMangerRelease\passwrod_manager.dll
-C:\Users\Giovanni\Desktop\Google Drive\programming\cs projects 1\passwrod_manager\PasswordMangerRelease\passwrod_manager.deps.json
-C:\Users\Giovanni\Desktop\Google Drive\programming\cs projects 1\passwrod_manager\PasswordMangerRelease\passwrod_manager.runtimeconfig.json
-C:\Users\Giovanni\Desktop\Google Drive\programming\cs projects 1\passwrod_manager\PasswordMangerRelease\passwrod_manager.pdb
