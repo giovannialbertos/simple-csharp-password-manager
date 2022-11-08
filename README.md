@@ -10,3 +10,7 @@ This is not intended for regular use, it is just a demo to show my abiity in csh
 * Ability to change the master password
 * RC4 encryption algorithm to encrypt and save all data (i know that it isn't the most secure, but I chose it for its simplicity)
 * SHA256 algorithm to hash the master password
+
+
+# branch di dev
+ciaone fioi
